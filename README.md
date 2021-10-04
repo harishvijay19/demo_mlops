@@ -1,3 +1,4 @@
+C:\Users\hvijay\AppData\Local\Continuum\anaconda3
 Create ENV
 
 ''' bash
