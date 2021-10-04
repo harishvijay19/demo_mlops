@@ -1,4 +1,4 @@
-C:\Users\hvijay\AppData\Local\Continuum\anaconda3
+'''C:\Users\hvijay\AppData\Local\Continuum\anaconda3'''
 Create ENV
 
 ''' bash
@@ -23,6 +23,7 @@ dvc init
 
 dvc add data_given/winequality.csv
 
+git add .
 git commit -m "first commit"
 git branch -M main
 git push -u origin main
