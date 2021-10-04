@@ -34,3 +34,4 @@ git push origin main
 dvc repro
 
 python train_and_evaluate.py -- config =params.yaml
+dvc metrics show
